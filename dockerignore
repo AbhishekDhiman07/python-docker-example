@@ -48,7 +48,7 @@ _pypackages_/
 .env
 .venv
 env/
-venv/cd D:\clonedocker
+venv/
 ENV/
 env.bak/
 venv.bak
